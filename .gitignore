@@ -1,9 +1,4 @@
-real_estate_price_size.csv
-real_estate_price_size_year.csv
-admittance.csv
-ex2data1.txt
-ex3data1.mat
-ex3weights.mat
+/data/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,venv
